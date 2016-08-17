@@ -3,3 +3,7 @@ A repository is needed so that tracking/committing of changes can be done.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area seems to act as a buffer where a commit is being prepared. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can elaborate on adding just the right files to the staging area. This way you can make sure only the necessary files are being committed.
+
