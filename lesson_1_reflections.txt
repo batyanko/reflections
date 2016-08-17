@@ -19,3 +19,4 @@ version control keeps the old versions and compares these with each other, or wi
 
 Now that you have your workspace set up, what do you want to try using Git for?
 I want to explore some project's versions.
+
