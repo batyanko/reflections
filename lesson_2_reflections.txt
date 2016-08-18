@@ -7,3 +7,9 @@ the staging area seems to act as a buffer where a commit is being prepared.
 How can you use the staging area to make sure you have one commit per logical change?
 You can elaborate on adding just the right files to the staging area. This way you can make sure only the necessary files are being committed.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches could be helpful when more alternatives of the code are needed - for example different languages, test features or alternative code. Branches can hold a version for every alternative needed.
+
+How do the diagrams help you visualize the branch structure?
+It pretty much shows the structure, thus visualizing it.
+
