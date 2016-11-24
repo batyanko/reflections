@@ -13,3 +13,6 @@ Branches could be helpful when more alternatives of the code are needed - for ex
 How do the diagrams help you visualize the branch structure?
 It pretty much shows the structure, thus visualizing it.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together results in combining the latest versions of these 2 branches. Git seems to consider the older versions of both branches, deciding which lines are a result of improvement, and which should rather be removed.
+
