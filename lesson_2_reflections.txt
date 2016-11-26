@@ -16,3 +16,5 @@ It pretty much shows the structure, thus visualizing it.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches together results in combining the latest versions of these 2 branches. Git seems to consider the older versions of both branches, deciding which lines are a result of improvement, and which should rather be removed.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Merging automatically can save some time, but may lead to unwanted changes in the code when merging different versions of the same code lines. Manual merging is on the safe side, allowing a the human developer initiating the merge to decide what the right version is. However this could cost a lot of time.
