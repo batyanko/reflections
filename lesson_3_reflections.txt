@@ -14,5 +14,4 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 Learning to work with Git would make things harder at the beginning, otherwise most aspects of collaboration would be made much easier by using Git.
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
-
-    Fill in your answer here
+Making changes to a separate branch would be needed to cooperate with other team members in a more elaborate way. This way a complete approval over the changes could be reached, by submitting a pull request and getting feedback from other contributors.
